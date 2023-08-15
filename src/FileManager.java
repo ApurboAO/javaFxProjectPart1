@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class FileManager {
+public class FileManager {
+
 }

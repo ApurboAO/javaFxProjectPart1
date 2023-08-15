@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class UI {
+public class UI {
+
 }
